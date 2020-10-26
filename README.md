@@ -34,3 +34,8 @@ Hi , I am Ritika Singh , I am a pre-final CSE student who is intrested in AI & M
         <img src="https://cdn1.vectorstock.com/i/1000x1000/77/30/sql-database-icon-logo-design-ui-or-ux-app-vector-17507730.jpg" width="50"/>        
       </p>
     </p>
+
+[![Ritika's github stats](https://github-readme-stats.vercel.app/api?username=ritika-singh2000)](https://github.com/ritika-singh2000/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritika-singh2000)](https://github.com/ritika-singh2000/github-readme-stats)
+
