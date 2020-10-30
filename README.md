@@ -1,6 +1,6 @@
 
 # 😁✨ Hey Profile Visitor  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=ritika-singh2000 alt=ritika-singh2000/></p>
+<p align="left"> 
 
 Hi , I am Ritika Singh , I am a pre-final CSE student who is intrested in AI & ML 🤖 as well as Data Science 🐱‍🏍and also evey tech that can make our lives easier.✌
 
