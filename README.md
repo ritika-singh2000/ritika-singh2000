@@ -15,7 +15,7 @@ Hi , I am Ritika Singh , I am a pre-final CSE student who is intrested in AI & M
 - 🔍 I’m looking for an internship in the field.😎
 - 😄 Open to collaborations in any type of project.
 - 🤝 Connect with me:  [LinkedIn](www.linkedin.com/in/ritikasingh2000)  , [Gmail](ritika.singh2929@gmail.com)
-- 👯 I’m enjoy competitive programming 💻  and art 🎨 👻
+- 👯 I enjoy competitive programming 💻 and art 🎨 👻
 - ⚡ Fun fact: when most developers love coffee ☕😅 , I prefer Tea 😍
 
 👸 Languages and Tools:<p align="center"></p>
