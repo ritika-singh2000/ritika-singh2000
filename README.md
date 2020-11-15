@@ -10,7 +10,7 @@ Hi , I am Ritika Singh , I am a pre-final CSE student who is intrested in AI & M
  <img align = "right"  width = "350"  src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" >
  
 - 🎒 I'm currently a CS student in BMS Institute of Technology and Management.
-- 🔭 I’m currently working on variour ML and DL , Computer Vision Projects.
+- 🔭 I’m currently working on variour ML and DL ,NLP, Computer Vision Projects.
 - 📚 I’m currently learning Data Structures and Algorithms , Open Source 🔥  and OpenCv.
 - 🔍 I’m looking for an internship in the field.😎
 - 😄 Open to collaborations in any type of project.
