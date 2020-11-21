@@ -2,7 +2,7 @@
 # 😁✨ Hey Profile Visitor  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <p align="left"> 
 
-Hi , I am Ritika Singh , I am a pre-final CSE student who is intrested in AI & ML 🤖 as well as Data Science 🐱‍🏍and also evey tech that can make our lives easier.✌
+Hi , I am Ritika Singh , I am a pre-final CSE student who is intrested in AI & ML 🤖 as well as Data Science 📊 🐱‍🏍and also evey tech that can make our lives easier.✌
 
 
  ## 👩‍💻 About Me :
@@ -15,8 +15,10 @@ Hi , I am Ritika Singh , I am a pre-final CSE student who is intrested in AI & M
 - 🔍 I’m looking for an internship in the field.😎
 - 😄 Open to collaborations in any type of project.
 - 🤝 Connect with me:  [LinkedIn](www.linkedin.com/in/ritikasingh2000)  , [Gmail](ritika.singh2929@gmail.com)
-- 👯 I enjoy competitive programming 💻 and art 🎨 👻
-- ⚡ Fun fact: when most developers love coffee ☕😅 , I prefer Tea 😍
+- 👯 I enjoy competitive programming 💻 , art 🎨 👻 and Music 🎧
+- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
+- ✨ I am always available to help and learn together.
+- ⚡ Fun fact: If I could have any superpower 👀, it would be to fly as high as an eagle 🦅
 
 👸 Languages and Tools:<p align="center"></p>
       <p align="center">
