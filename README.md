@@ -11,7 +11,7 @@ I believe that success 🏆  comes with smart hardwork 👩🏻‍🎓and a bit 
  <img align = "right"  width = "350"  src="https://cdn.dribbble.com/users/331265/screenshots/2498700/ana-d-small.gif" >
  
 - 🎒 I'm currently a CS student in BMS Institute of Technology and Management.
-- 🔭 I’m currently working on variour ML and DL ,NLP, Computer Vision Projects.
+- 🔭 I’m currently working on various ML and DL ,NLP, Computer Vision Projects.
 - 📚 I’m currently learning Data Structures and Algorithms , Open Source 🔥  and OpenCv.
 - 🔍 I’m looking for an internship in the field.😎
 - 😄 Open to collaborations in any type of project.
