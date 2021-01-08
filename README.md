@@ -19,7 +19,7 @@ I believe that success 🏆  comes with smart hardwork 👩🏻‍🎓and a bit 
 - 👯 I enjoy competitive programming 💻 , art 🎨 👩🏻‍🎨 and Music 🎧
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn a lot.
 - ✨ I am always available to help and learn together.
-- ⚡ Fun fact: If I could have any superpower 👀, it would be to fly 🦅
+
 
 👸 Languages and Tools:<p align="center"></p>
       <p align="center">
