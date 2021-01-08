@@ -17,7 +17,7 @@ I believe that success 🏆  comes with smart hardwork 👩🏻‍🎓and a bit 
 - 😄 Open to collaborations in any type of project.
 - 🤝 Connect with me:  [LinkedIn](www.linkedin.com/in/ritikasingh2000)  , [Gmail](ritika.singh2929@gmail.com)
 - 👯 I enjoy competitive programming 💻 , art 🎨 👩🏻‍🎨 and Music 🎧
-- 🥅 2020 Goals: Contribute more to Open Source projects and Learn a lot.
+- 🥅 2021 Goals: Contribute more to Open Source projects and Learn a lot.
 - ✨ I am always available to help and learn together.
 - ⚡ Fun fact: If I could have any superpower 👀, it would be to fly 🦅
 
